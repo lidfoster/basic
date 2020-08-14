@@ -1,0 +1,8 @@
+#This is a comment on which files to ignore
+demo.md
+
+#Ignore all .txt files
+temp2/x.txt
+
+#Ignore everything in a folder
+html/
